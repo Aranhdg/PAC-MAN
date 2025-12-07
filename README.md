@@ -1,0 +1,1 @@
+Simple pacman pathfinding project
